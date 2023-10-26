@@ -1,0 +1,13 @@
+#ignore virtual environment folder:
+testenv/
+
+
+# Ignore database files (example: SQLite, PostgreSQL, MySQL)
+*.db
+*.sqlite3
+*.sql
+*.pkl
+
+# Ignore sensitive configuration files
+config.ini
+secrets.json
